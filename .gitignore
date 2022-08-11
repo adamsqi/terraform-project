@@ -4,3 +4,4 @@
 *.lock.info
 *.txt
 .terraform
+def
